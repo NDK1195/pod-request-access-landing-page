@@ -8,8 +8,8 @@ This is a solution to the [Pod request access landing page challenge on Frontend
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/NDK1195/profile-card-component)
-- Live Site URL: [Live site URL here](https://ndk1195.github.io/profile-card-component/)
+- Solution URL: [Solution URL here](https://github.com/NDK1195/pod-request-access-landing-page)
+- Live Site URL: [Live site URL here](https://pod-request-access-landing-page-steel-mu.vercel.app/)
 
 ### Built with
 
